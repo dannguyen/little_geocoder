@@ -1,0 +1,3 @@
+class Neighborhood < Location
+
+end

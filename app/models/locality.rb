@@ -1,0 +1,4 @@
+class Locality < Location
+
+
+end

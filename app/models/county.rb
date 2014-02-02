@@ -1,0 +1,3 @@
+class County < Location
+
+end
